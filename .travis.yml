@@ -1,12 +1,10 @@
 language: go
 
 go:
-- 1.5
-- 1.6
-- 1.7
+- 1.13
 
 install:
-- go get ./...
+- go mod download
 
 script:
 - go test -cover -v ./...

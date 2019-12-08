@@ -3,7 +3,7 @@ package wordwrap_test
 import (
 	"testing"
 
-	"github.com/eidolon/wordwrap"
+	"github.com/seeruk/go-wordwrap"
 )
 
 func TestIndent(t *testing.T) {

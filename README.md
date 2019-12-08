@@ -9,15 +9,15 @@ Installation
 Installation via `go get`:
 
 ```
-$ go get github.com/eidolon/wordwrap
+$ go get github.com/seeruk/go-wordwrap
 ```
 
-Then simply import the `github.com/eidolon/wordwrap` package.
+Then simply import the `github.com/seeruk/go-wordwrap` package.
 
 Usage
 -----
 
-Documentation: https://godoc.org/github.com/eidolon/wordwrap
+Documentation: https://godoc.org/github.com/seeruk/go-wordwrap
 
 The primary use-case for this library was to wrap text for use in console applications. To that end there are two things this library does; wrapping text, and indenting multi-line strings with a given prefix (e.g. for generating help text).
 
@@ -63,5 +63,5 @@ License
 
 MIT
 
-[travis-badge]: https://img.shields.io/travis/eidolon/wordwrap.svg
-[travis-build]: https://travis-ci.org/eidolon/wordwrap
+[travis-badge]: https://img.shields.io/travis/seeruk/go-wordwrap.svg
+[travis-build]: https://travis-ci.org/seeruk/go-wordwrap

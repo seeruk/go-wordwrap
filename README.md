@@ -1,4 +1,4 @@
-Wordwrap [![Travis Build Status][travis-badge]][travis-build]
+go-wordwrap [![Travis Build Status][travis-badge]][travis-build]
 =======================================
 
 Ultra-simple word-wrapping library for Golang. Unsophisticated by design.
